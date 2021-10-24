@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+  text-decoration: none;
+  background-color: whitesmoke;
+}
+h3 {
+  margin-top: 40px;
+}
+.img {
+  border: 1px solid black;
+  width: 20%;
+  background-image: url(kanye.gif);
+  margin-left: 630px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 220px;
+}
